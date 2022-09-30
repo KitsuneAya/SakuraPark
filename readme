@@ -2,4 +2,5 @@ Prefixes:
 
 image_     - Non-repeatable Picture
 texture_   - Seamless, Repeatable Picture
-text_      - Text as an Image
+text_      - Text as a Picture
+animation_ - SpriteSheet Picture
