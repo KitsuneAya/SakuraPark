@@ -1,6 +1,6 @@
 Prefixes:
 
-image_     - Non-repeatable Picture
-texture_   - Seamless, Repeatable Picture
-text_      - Text as a Picture
-animation_ - SpriteSheet Picture
+image-     - Non-repeatable Picture
+texture-   - Seamless, Repeatable Picture
+text-      - Text as a Picture
+animation- - SpriteSheet Picture
